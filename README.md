@@ -1,4 +1,4 @@
-# vkLikeBot_Release
+# vkLikeBot
 Автолайкер постов
 
 Кто не хочет лайкать VK руками ⚠️ 
