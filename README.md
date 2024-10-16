@@ -44,7 +44,7 @@
     1. Скачайте последнюю версию
     2. Распакуйте в удобное место
     3. Обновите ваш браузер если требуется
-    4. Скачайте в папку с проектом chromedriver stable если требуется
+    4. Скачайте в папку с проектом chromedriver stable если требуется https://googlechromelabs.github.io/chrome-for-testing/#stable
     5. Добавте ссылки на посты в links.txt
     6. Запустите main.exe
     7. Авторизуйтесь в vk.com
