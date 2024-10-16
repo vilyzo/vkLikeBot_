@@ -48,3 +48,7 @@
     5. Добавте ссылки на посты в links.txt
     6. Запустите main.exe
     7. Авторизуйтесь в vk.com
+
+### Донат любая сумма
+
+https://www.tbank.ru/cf/66gkEthBBgT
